@@ -8,7 +8,7 @@ from os.path import exists
  	or may not be a quick sort). It works by calling "sorts.c"
  	iteratively.
 
- 	It's an utility that I build for a blogpost:
+ 	It's an utility that I built for a blogpost:
  		https://cozis.github.io/post/complessita-computazionale.html
  	about computational complexity. Since the blogpost is in 
  	italian, the code is commented in italian too.

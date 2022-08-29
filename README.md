@@ -2,7 +2,7 @@
 This program benchmarks the performance of selection sorts,
 counting sorts and the C standard library's `qsort`.
 
-It's an utility that I build for a blogpost:
+It's an utility that I built for a blogpost:
     https://cozis.github.io/post/complessita-computazionale.html
 about computational complexity. Since the blogpost is in 
 italian, the code is commented in italian too.
