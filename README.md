@@ -17,8 +17,9 @@ counting sort e del [qsort] della libreria standard del C.
     https://cozis.github.io/post/complessita-computazionale.html
 sulla complessità computazionale.
 
-Per usarlo va prima compilato `sorts.c` generando un eseguibile chiamato `sort`.
-Eseguendo `sorts.py` (con l'ausilio di `sort`), verrà generato un file chiamato
-`sort_data_N.json` contenente i risultati dei benchmark. Questo file può essere 
-dato in pasto a `plot.py` per generare un'immagine png contenente un grafico dei
-risultati. I parametri degli script vanno modificati dal loro interno.
+Per usarlo va prima compilato `sorts.c` generando un eseguibile chiamato `sort`
+(il comando da usare è scritto nel file). Eseguendo `sorts.py` (con l'ausilio 
+di `sort`), verrà generato un file chiamato `sort_data_N.json` contenente i 
+risultati dei benchmark. Questo file può essere dato in pasto a `plot.py` per 
+generare un'immagine png contenente un grafico dei risultati. I parametri degli 
+script vanno modificati dal loro interno.
