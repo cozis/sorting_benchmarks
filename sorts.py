@@ -57,8 +57,9 @@ try:
 		# grande per array piccoli e piccolo per array
 		# grandi.
 		iter_no = 100
-		
-		res = subprocess.run(["./sorts", str(n), str(iter_no)], capture_output=True, encoding='utf-8')
+
+		res = subprocess.run(["./sorts", str(n), str(iter_no)], 
+			                 capture_output=True, encoding='utf-8')
 
 		if res.returncode == 0:
 			# Completed succesfully

@@ -163,9 +163,9 @@ void counting_sort(int *array, int size, int min_value, int max_value)
 	 *
 	 * Dato che questo è solo un esempio, assumiamo che il
 	 * massimo numero di valori distinti che possono assumere
-	 * gli elementi sia massimo 32, in modo da poter usare
-	 * un array statico. Se questa assunzione non risulta
-	 * verificata, il programma viene abortito.
+	 * gli elementi sia 32, in modo da poter usare un array 
+	 * statico. Se questa assunzione non risulta verificata, 
+	 * il programma viene abortito.
 	 */
 
 	// Il numero di contatori necessari.
