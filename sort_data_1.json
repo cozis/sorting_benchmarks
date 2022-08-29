@@ -1,0 +1,457 @@
+[
+    {
+        "size": 10,
+        "iterations": 100,
+        "selection-sort": 1e-06,
+        "counting-sort": 1e-06,
+        "quick-sort": 1e-06
+    },
+    {
+        "size": 20,
+        "iterations": 100,
+        "selection-sort": 2e-06,
+        "counting-sort": 1e-06,
+        "quick-sort": 1e-06
+    },
+    {
+        "size": 30,
+        "iterations": 100,
+        "selection-sort": 3e-06,
+        "counting-sort": 1e-06,
+        "quick-sort": 2e-06
+    },
+    {
+        "size": 40,
+        "iterations": 100,
+        "selection-sort": 4e-06,
+        "counting-sort": 1e-06,
+        "quick-sort": 2e-06
+    },
+    {
+        "size": 50,
+        "iterations": 100,
+        "selection-sort": 5e-06,
+        "counting-sort": 1e-06,
+        "quick-sort": 3e-06
+    },
+    {
+        "size": 60,
+        "iterations": 100,
+        "selection-sort": 6e-06,
+        "counting-sort": 1e-06,
+        "quick-sort": 3e-06
+    },
+    {
+        "size": 70,
+        "iterations": 100,
+        "selection-sort": 8e-06,
+        "counting-sort": 1e-06,
+        "quick-sort": 4e-06
+    },
+    {
+        "size": 80,
+        "iterations": 100,
+        "selection-sort": 1e-05,
+        "counting-sort": 1e-06,
+        "quick-sort": 4e-06
+    },
+    {
+        "size": 90,
+        "iterations": 100,
+        "selection-sort": 1.2e-05,
+        "counting-sort": 1e-06,
+        "quick-sort": 5e-06
+    },
+    {
+        "size": 100,
+        "iterations": 100,
+        "selection-sort": 1.4e-05,
+        "counting-sort": 1e-06,
+        "quick-sort": 6e-06
+    },
+    {
+        "size": 110,
+        "iterations": 100,
+        "selection-sort": 1.6e-05,
+        "counting-sort": 1e-06,
+        "quick-sort": 6e-06
+    },
+    {
+        "size": 120,
+        "iterations": 100,
+        "selection-sort": 1.9e-05,
+        "counting-sort": 2e-06,
+        "quick-sort": 7e-06
+    },
+    {
+        "size": 130,
+        "iterations": 100,
+        "selection-sort": 2.1e-05,
+        "counting-sort": 2e-06,
+        "quick-sort": 7e-06
+    },
+    {
+        "size": 140,
+        "iterations": 100,
+        "selection-sort": 2.4e-05,
+        "counting-sort": 2e-06,
+        "quick-sort": 8e-06
+    },
+    {
+        "size": 150,
+        "iterations": 100,
+        "selection-sort": 2.8e-05,
+        "counting-sort": 2e-06,
+        "quick-sort": 9e-06
+    },
+    {
+        "size": 160,
+        "iterations": 100,
+        "selection-sort": 3e-05,
+        "counting-sort": 2e-06,
+        "quick-sort": 9e-06
+    },
+    {
+        "size": 170,
+        "iterations": 100,
+        "selection-sort": 3.4e-05,
+        "counting-sort": 2e-06,
+        "quick-sort": 1e-05
+    },
+    {
+        "size": 180,
+        "iterations": 100,
+        "selection-sort": 3.8e-05,
+        "counting-sort": 2e-06,
+        "quick-sort": 1.1e-05
+    },
+    {
+        "size": 190,
+        "iterations": 100,
+        "selection-sort": 4.2e-05,
+        "counting-sort": 2e-06,
+        "quick-sort": 1.1e-05
+    },
+    {
+        "size": 200,
+        "iterations": 100,
+        "selection-sort": 4.6e-05,
+        "counting-sort": 2e-06,
+        "quick-sort": 1.2e-05
+    },
+    {
+        "size": 210,
+        "iterations": 100,
+        "selection-sort": 5e-05,
+        "counting-sort": 2e-06,
+        "quick-sort": 1.3e-05
+    },
+    {
+        "size": 220,
+        "iterations": 100,
+        "selection-sort": 5.5e-05,
+        "counting-sort": 2e-06,
+        "quick-sort": 1.3e-05
+    },
+    {
+        "size": 230,
+        "iterations": 100,
+        "selection-sort": 5.9e-05,
+        "counting-sort": 2e-06,
+        "quick-sort": 1.4e-05
+    },
+    {
+        "size": 240,
+        "iterations": 100,
+        "selection-sort": 6.3e-05,
+        "counting-sort": 2e-06,
+        "quick-sort": 1.4e-05
+    },
+    {
+        "size": 250,
+        "iterations": 100,
+        "selection-sort": 7e-05,
+        "counting-sort": 2e-06,
+        "quick-sort": 1.5e-05
+    },
+    {
+        "size": 260,
+        "iterations": 100,
+        "selection-sort": 7.7e-05,
+        "counting-sort": 2e-06,
+        "quick-sort": 1.6e-05
+    },
+    {
+        "size": 270,
+        "iterations": 100,
+        "selection-sort": 8.1e-05,
+        "counting-sort": 2e-06,
+        "quick-sort": 1.7e-05
+    },
+    {
+        "size": 280,
+        "iterations": 100,
+        "selection-sort": 8.5e-05,
+        "counting-sort": 2e-06,
+        "quick-sort": 1.7e-05
+    },
+    {
+        "size": 290,
+        "iterations": 100,
+        "selection-sort": 9.1e-05,
+        "counting-sort": 2e-06,
+        "quick-sort": 1.8e-05
+    },
+    {
+        "size": 300,
+        "iterations": 100,
+        "selection-sort": 9.7e-05,
+        "counting-sort": 2e-06,
+        "quick-sort": 1.8e-05
+    },
+    {
+        "size": 310,
+        "iterations": 100,
+        "selection-sort": 0.000102,
+        "counting-sort": 2e-06,
+        "quick-sort": 1.9e-05
+    },
+    {
+        "size": 320,
+        "iterations": 100,
+        "selection-sort": 0.00011,
+        "counting-sort": 2e-06,
+        "quick-sort": 1.9e-05
+    },
+    {
+        "size": 330,
+        "iterations": 100,
+        "selection-sort": 0.000115,
+        "counting-sort": 2e-06,
+        "quick-sort": 2.1e-05
+    },
+    {
+        "size": 340,
+        "iterations": 100,
+        "selection-sort": 0.000122,
+        "counting-sort": 2e-06,
+        "quick-sort": 2.1e-05
+    },
+    {
+        "size": 350,
+        "iterations": 100,
+        "selection-sort": 0.00013,
+        "counting-sort": 3e-06,
+        "quick-sort": 2.2e-05
+    },
+    {
+        "size": 360,
+        "iterations": 100,
+        "selection-sort": 0.000136,
+        "counting-sort": 3e-06,
+        "quick-sort": 2.2e-05
+    },
+    {
+        "size": 370,
+        "iterations": 100,
+        "selection-sort": 0.000143,
+        "counting-sort": 3e-06,
+        "quick-sort": 2.3e-05
+    },
+    {
+        "size": 380,
+        "iterations": 100,
+        "selection-sort": 0.000152,
+        "counting-sort": 3e-06,
+        "quick-sort": 2.3e-05
+    },
+    {
+        "size": 390,
+        "iterations": 100,
+        "selection-sort": 0.000158,
+        "counting-sort": 3e-06,
+        "quick-sort": 2.4e-05
+    },
+    {
+        "size": 400,
+        "iterations": 100,
+        "selection-sort": 0.000166,
+        "counting-sort": 3e-06,
+        "quick-sort": 2.5e-05
+    },
+    {
+        "size": 410,
+        "iterations": 100,
+        "selection-sort": 0.000174,
+        "counting-sort": 3e-06,
+        "quick-sort": 2.6e-05
+    },
+    {
+        "size": 420,
+        "iterations": 100,
+        "selection-sort": 0.000182,
+        "counting-sort": 3e-06,
+        "quick-sort": 2.6e-05
+    },
+    {
+        "size": 430,
+        "iterations": 100,
+        "selection-sort": 0.000191,
+        "counting-sort": 3e-06,
+        "quick-sort": 2.7e-05
+    },
+    {
+        "size": 440,
+        "iterations": 100,
+        "selection-sort": 0.000199,
+        "counting-sort": 3e-06,
+        "quick-sort": 2.7e-05
+    },
+    {
+        "size": 450,
+        "iterations": 100,
+        "selection-sort": 0.00021,
+        "counting-sort": 3e-06,
+        "quick-sort": 2.8e-05
+    },
+    {
+        "size": 460,
+        "iterations": 100,
+        "selection-sort": 0.000218,
+        "counting-sort": 3e-06,
+        "quick-sort": 2.8e-05
+    },
+    {
+        "size": 470,
+        "iterations": 100,
+        "selection-sort": 0.000226,
+        "counting-sort": 3e-06,
+        "quick-sort": 2.9e-05
+    },
+    {
+        "size": 480,
+        "iterations": 100,
+        "selection-sort": 0.000236,
+        "counting-sort": 3e-06,
+        "quick-sort": 3e-05
+    },
+    {
+        "size": 490,
+        "iterations": 100,
+        "selection-sort": 0.000243,
+        "counting-sort": 3e-06,
+        "quick-sort": 3e-05
+    },
+    {
+        "size": 500,
+        "iterations": 100,
+        "selection-sort": 0.000258,
+        "counting-sort": 3e-06,
+        "quick-sort": 3.1e-05
+    },
+    {
+        "size": 510,
+        "iterations": 100,
+        "selection-sort": 0.000276,
+        "counting-sort": 3e-06,
+        "quick-sort": 3.1e-05
+    },
+    {
+        "size": 520,
+        "iterations": 100,
+        "selection-sort": 0.000287,
+        "counting-sort": 3e-06,
+        "quick-sort": 3.2e-05
+    },
+    {
+        "size": 530,
+        "iterations": 100,
+        "selection-sort": 0.000297,
+        "counting-sort": 3e-06,
+        "quick-sort": 3.3e-05
+    },
+    {
+        "size": 540,
+        "iterations": 100,
+        "selection-sort": 0.000303,
+        "counting-sort": 3e-06,
+        "quick-sort": 3.4e-05
+    },
+    {
+        "size": 550,
+        "iterations": 100,
+        "selection-sort": 0.000316,
+        "counting-sort": 3e-06,
+        "quick-sort": 3.4e-05
+    },
+    {
+        "size": 560,
+        "iterations": 100,
+        "selection-sort": 0.00033,
+        "counting-sort": 3e-06,
+        "quick-sort": 3.5e-05
+    },
+    {
+        "size": 570,
+        "iterations": 100,
+        "selection-sort": 0.000342,
+        "counting-sort": 3e-06,
+        "quick-sort": 3.5e-05
+    },
+    {
+        "size": 580,
+        "iterations": 100,
+        "selection-sort": 0.000349,
+        "counting-sort": 3e-06,
+        "quick-sort": 3.6e-05
+    },
+    {
+        "size": 590,
+        "iterations": 100,
+        "selection-sort": 0.000361,
+        "counting-sort": 3e-06,
+        "quick-sort": 3.7e-05
+    },
+    {
+        "size": 600,
+        "iterations": 100,
+        "selection-sort": 0.000374,
+        "counting-sort": 4e-06,
+        "quick-sort": 3.7e-05
+    },
+    {
+        "size": 610,
+        "iterations": 100,
+        "selection-sort": 0.000387,
+        "counting-sort": 4e-06,
+        "quick-sort": 3.8e-05
+    },
+    {
+        "size": 620,
+        "iterations": 100,
+        "selection-sort": 0.000399,
+        "counting-sort": 4e-06,
+        "quick-sort": 3.8e-05
+    },
+    {
+        "size": 630,
+        "iterations": 100,
+        "selection-sort": 0.00041,
+        "counting-sort": 4e-06,
+        "quick-sort": 3.9e-05
+    },
+    {
+        "size": 640,
+        "iterations": 100,
+        "selection-sort": 0.000421,
+        "counting-sort": 4e-06,
+        "quick-sort": 4e-05
+    },
+    {
+        "size": 650,
+        "iterations": 100,
+        "selection-sort": 0.000436,
+        "counting-sort": 4e-06,
+        "quick-sort": 4e-05
+    }
+]
